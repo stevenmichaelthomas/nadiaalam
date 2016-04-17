@@ -11,6 +11,7 @@ page '/*.txt', layout: false
 
 activate :autoprefixer
 activate :es6
+activate :directory_indexes
 
 # General configuration
 
